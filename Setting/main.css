@@ -41,10 +41,10 @@
     position: absolute;
     left: 0;
     top: 0;
-    max-width: 120%;
-    max-height: 120%; 
+    max-width: 150%;
+    max-height: 150%; 
     line-height: 200px;
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
     -webkit-box-shadow: 0 0 8px #fff;
             box-shadow: 0 0 8px #fff;
